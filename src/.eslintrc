@@ -1,0 +1,7 @@
+{
+  "extends": "../node_modules/avasuro-eslint-config/2__single_quotes_and_spaces/.eslintrc",
+  "env": {
+    "browser": true
+  },
+  "parser": "babel-eslint"
+}

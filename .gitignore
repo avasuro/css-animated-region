@@ -1,0 +1,13 @@
+/*
+
+!.gitignore
+!.eslintrc
+!package.json
+!LICENSE
+!gulpfile.js
+!readme.md
+!.editorconfig
+
+!examples/
+!src/
+!tests/
